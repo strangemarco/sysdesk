@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SysDesk.Api/SysDesk.Api.csproj" />
+  <Project Path="SysDesk.Domain/SysDesk.Domain.csproj" />
+  <Project Path="SysDesk.Application/SysDesk.Application.csproj" />
+  <Project Path="SysDesk.Infrastructure/SysDesk.Infrastructure.csproj" />
+</Solution>
